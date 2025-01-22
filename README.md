@@ -89,9 +89,10 @@ En uno de los proyectos que realicé tuve el privilegio de ser líder 📝; esto
       <a href="https://github.com/unsimpledev/MiTraductor" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" /></a>
     </p>       
 </td>
-  --->
+ <!-----     
 </tr>
 </table>
+--->
   </div>
 <br>
 <br><br>
