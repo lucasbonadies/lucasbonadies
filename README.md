@@ -92,7 +92,7 @@ En uno de los proyectos que realicé tuve el privilegio de ser líder 📝; esto
  <!-----     
 </tr>
 </table>
---->
+<
   </div>
 <br>
 <br><br>
