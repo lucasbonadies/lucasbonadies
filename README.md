@@ -1,27 +1,20 @@
-<h1 align="center">Hola 👋  soy Lucas Bonadies ✨ </h1> 
-<h2 align="center">🎓 Técnico superior en desarrollo de software 🎓</h2> 
+<h1 align="center"> Hi 👋 I'm Lucas Bonadies ✨ </h1> 
+<h2 align="center">🎓 Software Development Technician 🎓</h2> 
 
-<p align="left">
-  <a href="https://www.youtube.com/@lucasbonadies" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@LucasBonadies"  /></a>
-  <a href="https://linkedin.com/in/lucasbonadies/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasbonadies"/></a>
-  <a href = "mailto:lucasbonadies@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@lucasbonadies"  /></a>
-</p>
 <br>
-<h2>Sobre mi 😃</h2>
+<h2> About Me <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> </h2>
 <!--Intro start-->
 
 <p align="left">
 
-Proactivo, organizado y responsable 📚, con excelentes relaciones interpersonales y 3 años de experiencia en desarrollo de software 💻. 
-Me destaco por mi capacidad para trabajar en equipo, tomar decisiones y la rápida adaptación a nuevos desafíos ☺️.
-En uno de los proyectos que realicé tuve el privilegio de ser líder 📝; esto me permitió desarrollar una comunicación efectiva, fomentar la colaboración y tomar decisiones estratégicas bajo presión.
+Proactive, organized, and responsible 📚, with excellent interpersonal skills and 3 years of experience in software development 💻. I stand out for my ability to work in teams, make decisions, and quickly adapt to new challenges ☺️. In one of the projects I worked on, I had the privilege of being a leader 📝; this allowed me to develop effective communication, foster collaboration, and make strategic decisions under pressure.
 
-📫 Contacto: **lucasbonadies@gmail.com**
+📫 Contact: **lucasbonadies@gmail.com**
 <!--Intro end-->
   </p>
 <br>
 
-<h2 >Tecnologías que utilizó para trabajar como Dev👨🏻‍💻</h2>
+<h2 > Technologies I use as a Developer 🛠️ </h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -30,7 +23,7 @@ En uno de los proyectos que realicé tuve el privilegio de ser líder 📝; esto
 </p>
 <br>
 <!-------------------------->
-<h2 >Tecnologías que estoy estudiando 👨🏻‍💻</h2>
+<h2 > Technologies I’m currently learning 👨🏻‍💻</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -41,7 +34,7 @@ En uno de los proyectos que realicé tuve el privilegio de ser líder 📝; esto
 <!-------------------------->
 <div id="proyectos">
   
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+<h2 > Some Projects 🔥</h2>
 
 <table align="left" >
 <tr border="none">
@@ -57,7 +50,7 @@ En uno de los proyectos que realicé tuve el privilegio de ser líder 📝; esto
 <br><br><br>
 <br><br>
 
-<h2>GitHub :octocat:</h2>
+<h2> GitHub :octocat: </h2>
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -89,3 +82,11 @@ En uno de los proyectos que realicé tuve el privilegio de ser líder 📝; esto
 
 </p>        
 <!--- stats (end) -->
+<br></br> 
+
+<h2> Let's Connect..!</h2>
+<p align="left">
+  <a href="https://www.youtube.com/@lucasbonadies" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@LucasBonadies"  /></a>
+  <a href="https://linkedin.com/in/lucasbonadies/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasbonadies"/></a>
+  <a href = "mailto:lucasbonadies@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@lucasbonadies"  /></a>
+</p>
