@@ -110,8 +110,8 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 
 ### 📈 GitHub Stats (opcional)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lucasbonadies&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasbonadies&layout=compact)
 
 ---
 
