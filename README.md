@@ -90,3 +90,33 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
   <a href="https://linkedin.com/in/lucasbonadies/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasbonadies"/></a>
   <a href = "mailto:lucasbonadies@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@lucasbonadies"  /></a>
 </p>
+### 📌 Proyectos destacados
+
+- [Sitio institucional para X negocio](enlace-al-repo-o-web)
+- [Aplicación web para gestión de pedidos](enlace-al-repo)
+- [Landing page para campaña digital](enlace-al-repo-o-web)
+
+*(Agrega aquí los que quieras destacar)*
+
+---
+
+### 🌍 Encuéntrame en
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](tu-linkedin)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](tu-instagram)
+[![Sitio Web](https://img.shields.io/badge/-Sitio_Web-000?style=for-the-badge&logo=web&logoColor=white)](tu-web)
+
+---
+
+### 📈 GitHub Stats (opcional)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact)
+
+---
+
+✨ **¡Gracias por visitar mi perfil!**
+
+
+
+
