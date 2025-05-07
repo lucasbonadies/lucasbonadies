@@ -18,7 +18,7 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,css,html,js,mysql,git,github,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,css,html,js,mysql,git,github,vscode,wordpress&perline=12" />
   </a>
 </p>
 <br>
