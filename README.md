@@ -108,7 +108,7 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
   <a href = "mailto:lucasbonadies@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@lucasbonadies"  /></a>  
   
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_belayout/?hl=es-la)
-  [![Web Site](https://img.shields.io/badge/-Sitio_Web-000?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/_belayout/?hl=es-la)
+  [![Website](https://img.shields.io/badge/-website-000?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/_belayout/?hl=es-la)
 
 </p>
 ### 📌 Proyectos destacados
