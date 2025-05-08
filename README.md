@@ -38,8 +38,25 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 
 <table align="left" >
 <tr border="none">
+  <td>
+    
+  [BeLayout Homepage](https://belayout.com/)  
+  BeLayout's web design and development services.
 
-     
+  </td> 
+  <td>
+    
+  [BeLayout Homepage](https://belayout.com/)  
+  BeLayout's web design and development services.
+  
+  </td>  
+   <td>
+    
+  [BeLayout Homepage](https://belayout.com/)  
+  BeLayout's web design and development services.
+  
+  </td>  
+  
 </tr>
 </table>
 
