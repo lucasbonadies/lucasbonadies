@@ -34,22 +34,22 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 <!-------------------------->
 <div id="proyectos">
   
-<h2 > Some Projects 🔥</h2>
-
-- 💼 [BeLayout Website](https://belayout.com/)  
-- ☕ [BlessCoffee - Sistema de gestión para cafetería](https://github.com/lucasbonadies/BlessCoffee)  
-- 🍽️ [ChefSite - Sistema de pedidos para restaurante](https://github.com/lucasbonadies/ChefSite)  
-- 🐧 [LinuxWeb - Página informativa sobre Linux](https://github.com/lucasbonadies/LinuxWeb)
-
-<table align="center" >
-<tr border="none">
+  <h2 > Some Projects 🔥</h2>
+  
+  - 💼 [BeLayout Website](https://belayout.com/)  
+  - ☕ [BlessCoffee - Sistema de gestión para cafetería](https://github.com/lucasbonadies/BlessCoffee)  
+  - 🍽️ [ChefSite - Sistema de pedidos para restaurante](https://github.com/lucasbonadies/ChefSite)  
+  - 🐧 [LinuxWeb - Página informativa sobre Linux](https://github.com/lucasbonadies/LinuxWeb)
+  
+  <table align="center" >
+  <tr border="none">
   <td>
-    
+        
   ![BeLayout Homepage](screenshots/belayout-home-page.jpg)
-
+    
   </td> 
   <td>
-    
+        
   ![lv-lawyer](screenshots/Lorena-Vallejos-home.jpg)
 
   </td>  
@@ -58,8 +58,8 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
   
 
   </td>  
-</tr>
-<tr border="none">
+  </tr>
+  <tr border="none">
   <td>
     
   ![ChefSite](screenshots/Logo-ChefSite-Aplicacion-Web.png)  
@@ -75,16 +75,31 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
   ![Linux](screenshots/Logo-Linux-Web-Informativa.jpeg)  
   
   </td>  
+    
+  </tr>
   
-</tr>
-</table>
+  </table>
 
-  </div>
+  <table align="center">
+  <tr>
+    <td><img src="screenshots/belayout-home-page.jpg" width="350"></td>
+    <td><img src="screenshots/Lorena-Vallejos-home.jpg" width="350"></td>
+    <td><img src="screenshots/Logo-ChefSite-Aplicacion-Web.png" width="350"></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Bless-Coffee-logo.jpeg" width="350"></td>
+    <td><img src="screenshots/Logo-Linux-Web-Informativa.jpeg" width="350"></td>
+    <td><img src="screenshots/Logo-Linux-Web-Informativa.jpeg" width="350"></td>
+  </tr>
+  </table>
+
+
+</div>
+
+--- 
+
 <br>
-<br><br>
 <br>
-<br><br><br>
-<br><br>
 
 <h2> GitHub :octocat: </h2>
 <!--- stats & Trophy (start) -->
