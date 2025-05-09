@@ -41,45 +41,35 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 - 🍽️ [ChefSite - Sistema de pedidos para restaurante](https://github.com/lucasbonadies/ChefSite)  
 - 🐧 [LinuxWeb - Página informativa sobre Linux](https://github.com/lucasbonadies/LinuxWeb)
 
-<table align="left" >
+<table align="center" >
 <tr border="none">
   <td>
     
-  [BeLayout Homepage](screenshots/belayout-home-page.jpg)  
-  BeLayout's web design and development services.
+  ![BeLayout Homepage](screenshots/belayout-home-page.jpg)
 
   </td> 
   <td>
     
-  [BeLayout Homepage](screenshots/Lorena-Vallejos-home.jpg)  
-  BeLayout's web design and development services.
+  ![lawyer-](screenshots/Lorena-Vallejos-home.jpg)
   
   </td>  
-   <td>
-    
-  [BeLayout Homepage](screenshots/belayout-home-page.jpg)  
-  BeLayout's web design and development services.
-  
-  </td>  
+
   
 </tr>
 <tr border="none">
   <td>
     
-  [BeLayout Homepage](screenshots/belayout-home-page.jpg)  
-  BeLayout's web design and development services.
+  ![ChefSite](screenshots/Logo-ChefSite-Aplicacion-Web.png)  
+
+  </td>  
+  <td>
+    
+  ![Bless-Coffee](screenshots/Bless-Coffee-logo.jpeg)    
 
   </td> 
   <td>
     
-  [BeLayout Homepage](screenshots/Lorena-Vallejos-home.jpg)  
-  BeLayout's web design and development services.
-  
-  </td>  
-   <td>
-    
-  [BeLayout Homepage](screenshots/belayout-home-page.jpg)  
-  BeLayout's web design and development services.
+  ![Linux](screenshots/Logo-Linux-Web-Informativa.jpeg)  
   
   </td>  
   
