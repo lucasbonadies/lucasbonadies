@@ -55,10 +55,8 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
   <img src="screenshots/Logo-Linux-Web-Informativa.jpeg" width="200px" />
 </p>
 
-
 --- 
 
-<br>
 <br>
 
 <h2> GitHub :octocat: </h2>
@@ -91,9 +89,7 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 <!--- trophy (start) -->
 
 </p>        
-<!--- stats (end) -->
-
-<br></br> 
+<!--- stats (end) --> 
 
 ---
 
@@ -114,6 +110,7 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 
 
 ✨ **Thanks for visiting my profile!**
+
  I'm always open to new opportunities, collaborations, and creative challenges. 🚀
 
 
