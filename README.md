@@ -37,9 +37,9 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
   <h2 > Some Projects 🔥</h2>
   
   - 💼 [BeLayout Website](https://belayout.com/)  
-  - ☕ [BlessCoffee - Sistema de gestión para cafetería](https://github.com/lucasbonadies/BlessCoffee)  
-  - 🍽️ [ChefSite - Sistema de pedidos para restaurante](https://github.com/lucasbonadies/ChefSite)  
-  - 🐧 [LinuxWeb - Página informativa sobre Linux](https://github.com/lucasbonadies/LinuxWeb)
+  - ☕ [BlessCoffee - Management system for cafes.](https://github.com/lucasbonadies/BlessCoffee)  
+  - 🍽️ [ChefSite - Comprehensive restaurant system](https://github.com/lucasbonadies/ChefSite)  
+  - 🐧 [LinuxWeb - Informational website about Linux](https://github.com/lucasbonadies/LinuxWeb)
   
 ---
 
