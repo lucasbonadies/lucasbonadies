@@ -6,8 +6,10 @@
 <!--Intro start-->
 
 <p align="left">
-
-Proactive, organized, and responsible 📚, with excellent interpersonal skills and 3 years of experience in software development 💻. I stand out for my ability to work in teams, make decisions, and quickly adapt to new challenges ☺️. In one of the projects I worked on, I had the privilege of being a leader 📝; this allowed me to develop effective communication, foster collaboration, and make strategic decisions under pressure.
+I am the creator of **BeLayout**, a brand dedicated to software development and custom web design.
+I am passionate about transforming ideas into functional and visually compelling applications, working with modern technologies tailored to each client.
+  
+I am proactive, organized, and responsible 📚, with excellent interpersonal skills and 3 years of experience in software development 💻. I stand out for my ability to work in teams, make decisions, and quickly adapt to new challenges ☺️. In one of the projects I worked on, I had the privilege of being a leader 📝; this allowed me to develop effective communication, foster collaboration, and make strategic decisions under pressure.
 
 📫 Contact: **lucasbonadies@gmail.com**
 <!--Intro end-->
