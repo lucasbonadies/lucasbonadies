@@ -11,7 +11,12 @@ I am passionate about transforming ideas into functional and visually compelling
   
 I am proactive, organized, and responsible 📚, with excellent interpersonal skills and 3 years of experience in software development 💻. I stand out for my ability to work in teams, make decisions, and quickly adapt to new challenges ☺️. In one of the projects I worked on, I had the privilege of being a leader 📝; this allowed me to develop effective communication, foster collaboration, and make strategic decisions under pressure.
 
-📫 Contact: **lucasbonadies@gmail.com**
+**Contact**:
+
+<a href="https://linkedin.com/in/lucasbonadies/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasbonadies"/></a>
+
+[![Website](https://img.shields.io/badge/-website-050?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/_belayout/?hl=es-la)
+
 <!--Intro end-->
   </p>
 <br>
@@ -96,15 +101,14 @@ I am proactive, organized, and responsible 📚, with excellent interpersonal sk
 ---
 
 <div>
-<h2> Let's Connect..!</h2>
-<p align="left">
-  <a href="https://linkedin.com/in/lucasbonadies/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasbonadies"/></a>
+<h2> Social networks </h2>
+<p >
+  
   <a href="https://www.youtube.com/@lucasbonadies" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@LucasBonadies"  /></a>
   <a href = "mailto:lucasbonadies@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@lucasbonadies"  /></a>  
   
   [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_belayout/?hl=es-la)
-  [![Website](https://img.shields.io/badge/-website-000?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/_belayout/?hl=es-la)
-
+  
 </p>
 </div>
 
