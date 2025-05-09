@@ -45,19 +45,40 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 <tr border="none">
   <td>
     
-  [BeLayout Homepage](https://belayout.com/)  
+  [BeLayout Homepage](screenshots/belayout-home-page.jpg)  
   BeLayout's web design and development services.
 
   </td> 
   <td>
     
-  [BeLayout Homepage](https://belayout.com/)  
+  [BeLayout Homepage](screenshots/Lorena-Vallejos-home.jpg)  
   BeLayout's web design and development services.
   
   </td>  
    <td>
     
-  [BeLayout Homepage](https://belayout.com/)  
+  [BeLayout Homepage](screenshots/belayout-home-page.jpg)  
+  BeLayout's web design and development services.
+  
+  </td>  
+  
+</tr>
+<tr border="none">
+  <td>
+    
+  [BeLayout Homepage](screenshots/belayout-home-page.jpg)  
+  BeLayout's web design and development services.
+
+  </td> 
+  <td>
+    
+  [BeLayout Homepage](screenshots/Lorena-Vallejos-home.jpg)  
+  BeLayout's web design and development services.
+  
+  </td>  
+   <td>
+    
+  [BeLayout Homepage](screenshots/belayout-home-page.jpg)  
   BeLayout's web design and development services.
   
   </td>  
