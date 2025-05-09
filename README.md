@@ -50,11 +50,9 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
   </td> 
   <td>
     
-  ![lawyer-](screenshots/Lorena-Vallejos-home.jpg)
-  
-  </td>  
+  ![lv-lawyer](screenshots/Lorena-Vallejos-home.jpg)
 
-  
+  </td>  
 </tr>
 <tr border="none">
   <td>
