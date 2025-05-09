@@ -90,11 +90,14 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 </div>
 <!--- trophy (start) -->
 
-
 </p>        
 <!--- stats (end) -->
+
 <br></br> 
 
+---
+
+<div>
 <h2> Let's Connect..!</h2>
 <p align="left">
   <a href="https://linkedin.com/in/lucasbonadies/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasbonadies"/></a>
@@ -105,6 +108,7 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
   [![Website](https://img.shields.io/badge/-website-000?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/_belayout/?hl=es-la)
 
 </p>
+</div>
 
 ![Visitas al perfil](https://komarev.com/ghpvc/?username=lucasbonadies&label=Profile%20views&color=0e75b6&style=flat)
 
