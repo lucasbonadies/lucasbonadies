@@ -41,60 +41,20 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
   - 🍽️ [ChefSite - Sistema de pedidos para restaurante](https://github.com/lucasbonadies/ChefSite)  
   - 🐧 [LinuxWeb - Página informativa sobre Linux](https://github.com/lucasbonadies/LinuxWeb)
   
-  <table align="center" >
-  <tr border="none">
-  <td>
-        
-  ![BeLayout Homepage](screenshots/belayout-home-page.jpg)
-    
-  </td> 
-  <td>
-        
-  ![lv-lawyer](screenshots/Lorena-Vallejos-home.jpg)
+---
 
-  </td>  
-  <td>
-    
+<p align="center">
+  <img src="screenshots/belayout-home-page.jpg" width="400" />
+  <img src="screenshots/Lorena-Vallejos-home.jpg" width="400" />
   
+</p>
 
-  </td>  
-  </tr>
-  <tr border="none">
-  <td>
-    
-  ![ChefSite](screenshots/Logo-ChefSite-Aplicacion-Web.png)  
+<p align="center">
+  <img src="screenshots/Logo-ChefSite-Aplicacion-Web.png" width="300" />
+  <img src="screenshots/Bless-Coffee-logo.jpeg" width="300" />
+  <img src="screenshots/Logo-Linux-Web-Informativa.jpeg" width="300" />
+</p>
 
-  </td>  
-  <td>
-    
-  ![Bless-Coffee](screenshots/Bless-Coffee-logo.jpeg)    
-
-  </td> 
-  <td>
-    
-  ![Linux](screenshots/Logo-Linux-Web-Informativa.jpeg)  
-  
-  </td>  
-    
-  </tr>
-  
-  </table>
-
-  <table align="center">
-  <tr>
-    <td><img src="screenshots/belayout-home-page.jpg" width="350"></td>
-    <td><img src="screenshots/Lorena-Vallejos-home.jpg" width="350"></td>
-    <td><img src="screenshots/Logo-ChefSite-Aplicacion-Web.png" width="350"></td>
-  </tr>
-  <tr>
-    <td><img src="screenshots/Bless-Coffee-logo.jpeg" width="350"></td>
-    <td><img src="screenshots/Logo-Linux-Web-Informativa.jpeg" width="350"></td>
-    <td><img src="screenshots/Logo-Linux-Web-Informativa.jpeg" width="350"></td>
-  </tr>
-  </table>
-
-
-</div>
 
 --- 
 
