@@ -130,13 +130,9 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
   [![Website](https://img.shields.io/badge/-website-000?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/_belayout/?hl=es-la)
 
 </p>
-### 📌 Proyectos destacados
 
-- [Sitio institucional para X negocio](enlace-al-repo-o-web)
-- [Aplicación web para gestión de pedidos](enlace-al-repo)
-- [Landing page para campaña digital](enlace-al-repo-o-web)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=lucasbonadies&label=Profile%20views&color=0e75b6&style=flat)
 
----
 
 ✨ **Thanks for visiting my profile!**
  I'm always open to new opportunities, collaborations, and creative challenges. 🚀
