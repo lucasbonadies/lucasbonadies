@@ -15,7 +15,7 @@ I am proactive, organized, and responsible 📚, with excellent interpersonal sk
 
 <a href="https://linkedin.com/in/lucasbonadies/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="lucasbonadies"/></a>
 
-[![Website](https://img.shields.io/badge/-website-050?style=for-the-badge&logo=web&logoColor=white)](https://www.instagram.com/_belayout/?hl=es-la)
+[![Website](https://img.shields.io/badge/-website-050?style=for-the-badge&logo=web&logoColor=white)](https://www.belayout.com/)
 
 <!--Intro end-->
   </p>
