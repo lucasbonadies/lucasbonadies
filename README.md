@@ -50,9 +50,9 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 </p>
 
 <p align="center">
-  <img src="screenshots/Logo-ChefSite-Aplicacion-Web.png" width="300" />
-  <img src="screenshots/Bless-Coffee-logo.jpeg" width="300" />
-  <img src="screenshots/Logo-Linux-Web-Informativa.jpeg" width="300" />
+  <img src="screenshots/Logo-ChefSite-Aplicacion-Web.png" width="200" />
+  <img src="screenshots/Bless-Coffee-logo.jpeg" width="200" />
+  <img src="screenshots/Logo-Linux-Web-Informativa.jpeg" width="200px" />
 </p>
 
 
