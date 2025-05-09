@@ -27,7 +27,7 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,java,py,firebase,docker,eclipse,linux&perline=12" />
+    <img src="https://skillicons.dev/icons?i=py,firebase,docker,linux&perline=12" />
   </a>
 </p>
 <br>
@@ -35,6 +35,11 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 <div id="proyectos">
   
 <h2 > Some Projects 🔥</h2>
+
+- 💼 [BeLayout Website](https://belayout.com/)  
+- ☕ [BlessCoffee - Sistema de gestión para cafetería](https://github.com/lucasbonadies/BlessCoffee)  
+- 🍽️ [ChefSite - Sistema de pedidos para restaurante](https://github.com/lucasbonadies/ChefSite)  
+- 🐧 [LinuxWeb - Página informativa sobre Linux](https://github.com/lucasbonadies/LinuxWeb)
 
 <table align="left" >
 <tr border="none">
@@ -117,12 +122,10 @@ Proactive, organized, and responsible 📚, with excellent interpersonal skills 
 - [Aplicación web para gestión de pedidos](enlace-al-repo)
 - [Landing page para campaña digital](enlace-al-repo-o-web)
 
-*(Agrega aquí los que quieras destacar)*
-
 ---
 
 ✨ **Thanks for visiting my profile!**
-
+ I'm always open to new opportunities, collaborations, and creative challenges. 🚀
 
 
 
