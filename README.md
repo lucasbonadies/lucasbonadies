@@ -35,31 +35,49 @@ My approach is practical: design and develop systems that solve real operational
 
 ## 🚀 Projects
 
-- 💼 [BeLayout Website](https://belayout.com/)  
+- 💼 [Portfolio](https://belayout.com/porfolio)
+- 🌐 [BeLayout Website](https://belayout.com/)  
 - ☕ [BlessCoffee – Café management system](https://github.com/lucasbonadies/BlessCoffee)  
 - 🍽️ [ChefSite – Restaurant management system](https://github.com/lucasbonadies/ChefSite)  
-- 🐧 [LinuxWeb – Informational Linux website](https://github.com/lucasbonadies/LinuxWeb)
 
 ---
 
-## 🌐 Portfolio Preview
+## 🌐 Client Portfolio
 
 <p align="center">
-  <a href="https://belayout.com/">
-    <img src="screenshots/belayout-home-page.jpg" width="300"/>
+  <a href="https://belayout.com/porfolio">
+    <img src="screenshots/Logotipo-BeLayout-5-Diseno-Blanco-e1746410804244.png" width="200"/>
   </a>
-  <a href="https://lucasbonadies.infinityfreeapp.com/">
-    <img src="screenshots/Lorena-Vallejos-home.jpg" width="300"/>
+  <a href="https://belayout.com/porfolio">
+    <img src="screenshots/Logo_500x250px.png" width="200"/>
   </a>
-  <a href="https://belayout.com/">
-    <img src="screenshots/Logo-ChefSite-Aplicacion-Web.png" width="150"/>
+  <a href="https://belayout.com/porfolio">
+    <img src="screenshots/ChefSite-logo-fondo-Transparente.png" width="200"/>
+  </a>
+  <a href="https://belayout.com/porfolio">
+    <img src="screenshots/Riesgo-logo-rojo.png" width="200"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="Riesgo-logo-rojo.png" width="350"/>
-  <img src="screenshots/Bless-Coffee-logo.jpeg" width="150"/>
-  <img src="screenshots/Logo-Linux-Web-Informativa.jpeg" width="150"/>
+  <a href="https://belayout.com/porfolio">
+    <img src="screenshots/LOGOTIPO-MODULE-SIP-4.png" width="200"/>
+  </a>
+  <a href="https://belayout.com/porfolio">
+    <img src="screenshots/PNGs_Factor-Padel-Logo-Nombre-Blanco.png" width="200"/>
+  </a>
+  <a href="https://belayout.com/porfolio">
+    <img src="screenshots/ChefSite-logo-fondo-Transparente.png" width="200"/>
+  </a>
+  <a href="https://belayout.com/porfolio">
+    <img src="screenshots/Logo_Iwao.png" width="200"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://belayout.com/porfolio">
+    <img src="https://img.shields.io/badge/View%20Full%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" width="250"/>
+  </a>
 </p>
 
 ---
