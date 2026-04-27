@@ -57,7 +57,7 @@ My approach is practical: design and develop systems that solve real operational
 </p>
 
 <p align="center">
-  <img src="Riesgo-logo-rojo.png" width="150"/>
+  <img src="Riesgo-logo-rojo.png" width="350"/>
   <img src="screenshots/Bless-Coffee-logo.jpeg" width="150"/>
   <img src="screenshots/Logo-Linux-Web-Informativa.jpeg" width="150"/>
 </p>
