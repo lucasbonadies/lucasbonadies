@@ -52,7 +52,7 @@ My approach is practical: design and develop systems that solve real operational
     <img src="screenshots/Logo_500x250px.png" width="200"/>
   </a>
   <a href="https://belayout.com/porfolio">
-    <img src="screenshots/ChefSite-logo-fondo-Transparente.png" width="200"/>
+    <img src="screenshots/Logo-blanco-HOMMI-1080X1080.png" width="180"/>
   </a>
   <a href="https://belayout.com/porfolio">
     <img src="screenshots/Riesgo-logo-rojo.png" width="200"/>
@@ -67,10 +67,10 @@ My approach is practical: design and develop systems that solve real operational
     <img src="screenshots/PNGs_Factor-Padel-Logo-Nombre-Blanco.png" width="200"/>
   </a>
   <a href="https://belayout.com/porfolio">
-    <img src="screenshots/ChefSite-logo-fondo-Transparente.png" width="200"/>
+    <img src="screenshots/Logo_Iwao.png" width="200"/>
   </a>
   <a href="https://belayout.com/porfolio">
-    <img src="screenshots/Logo_Iwao.png" width="200"/>
+    <img src="screenshots/Moi-Deco-Fondo-Blanco.png" width="200"/>
   </a>
 </p>
 
